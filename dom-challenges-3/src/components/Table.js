@@ -10,7 +10,7 @@ function renderRows (numOfRows) {
     }
     return allRows
 }
-
+ 
 
 function Table(props) {
     console.log(props);

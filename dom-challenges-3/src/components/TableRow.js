@@ -4,8 +4,8 @@ import TableCell from './TableCell'
 function TableRow() {
     return (
         <tr className="row">
-            <TableCell></TableCell>
-            <TableCell></TableCell>
+            <TableCell/>
+            <TableCell/> 
         </tr>
     )
 }
