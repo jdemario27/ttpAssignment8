@@ -6,6 +6,6 @@ function TableCell() {
              
         </td>
     )
-}
+} 
 
 export default TableCell;
